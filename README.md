@@ -1,4 +1,4 @@
-# Practical TDD for React
+# Practical TDD for React 
 
 Practical TDD for React is a workshop focused on teaching a _practical_ approach to TDD. I really want to emphasize the practical aspect of it. We won't be doing what most people would consider a purist/conventional approach to TDD. Instead, we're going to spend a lot of time looking at workflows, tools, techniques, and tradeoffs that I believe will make TDD much more approachable for you to start practicing in your day-to-day coding and consequently, make your time more productive and enjoyable. :nerd_face: If you already use TDD or automated testing when writing code, then I believe this workshop will offer some new perspective for you on how to make your TDD workflow more productive. :rocket:
 
